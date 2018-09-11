@@ -1,0 +1,274 @@
+{
+  "keys": "/Users/monkey/Desktop/emma/config/config.default.js",
+  "middleware": "/Users/monkey/Desktop/emma/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/monkey/Desktop/emma/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/monkey/Desktop/emma/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/monkey/Desktop/emma/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/monkey/Desktop/emma/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "useSession": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "cookieName": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "sessionName": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "headerName": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "bodyName": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "queryName": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.local.js",
+      "maxAge": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "policy": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "checkAddress": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/monkey/Desktop/emma/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/monkey/Desktop/emma/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/monkey/Desktop/emma/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/monkey/Desktop/emma/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/monkey/Desktop/emma/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/monkey/Desktop/emma/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/monkey/Desktop/emma/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/monkey/Desktop/emma/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/Users/monkey/Desktop/emma/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/Users/monkey/Desktop/emma/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/monkey/Desktop/emma/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/monkey/Desktop/emma/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/monkey/Desktop/emma/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/monkey/Desktop/emma/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js",
+      "development": "/Users/monkey/Desktop/emma/node_modules/_egg-watcher@3.0.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "files": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/monkey/Desktop/emma/node_modules/_egg-multipart@2.1.0@egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/monkey/Desktop/emma/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/monkey/Desktop/emma/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "fastReady": "/Users/monkey/Desktop/emma/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/monkey/Desktop/emma/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/monkey/Desktop/emma/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/monkey/Desktop/emma/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js",
+      "file": "/Users/monkey/Desktop/emma/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/monkey/Desktop/emma/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/monkey/Desktop/emma/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dir": "/Users/monkey/Desktop/emma/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dynamic": "/Users/monkey/Desktop/emma/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "preload": "/Users/monkey/Desktop/emma/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "buffer": "/Users/monkey/Desktop/emma/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "maxFiles": "/Users/monkey/Desktop/emma/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/monkey/Desktop/emma/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "cache": "/Users/monkey/Desktop/emma/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/monkey/Desktop/emma/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/monkey/Desktop/emma/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "mapping": "/Users/monkey/Desktop/emma/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "env": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "name": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "proxy": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "version": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "description": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "private": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "autod-egg": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-bin": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-ci": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "egg-mock": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "eslint": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "stop": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "dev": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "debug": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "test": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "test-local": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "cov": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "lint": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "ci": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "autod": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "url": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "author": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "license": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "HOME": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "rundir": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "notFound": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "sitefile": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "middlewares": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "httpClient": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "encoding": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "formLimit": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "strict": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "depth": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "encoding": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "env": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "level": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "outputJSON": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "buffer": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "appLogName": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "coreLogName": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "agentLogName": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "errorLogName": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxSockets": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxSockets": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "logging": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "port": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+      "hostname": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/monkey/Desktop/emma/node_modules/_egg@2.10.0@egg/config/config.default.js"
+}
